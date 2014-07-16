@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Proj-Intel",
+  "name": "Proj-Intel",
+  "description": "Transmute stuff into other stuff! Become a Minecraft God!",
+  "version": "1.0",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "FricionlessPortal"
+  ],
+  "credits": "By FricionlessPortal",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
