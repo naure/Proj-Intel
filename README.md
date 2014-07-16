@@ -1,4 +1,5 @@
 Proj-Intel
 ==========
 
-MMORPG in Minecraft the way it should have been!
+Proj-Intel. OP Stuff, Always
+Coded by FrictionlessPortals.
